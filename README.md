@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on <b>DEVOPS-CI-CD.</b>
-- 🌱 I’m currently learning <b>DSA and Devops.</b>
-- 💬 Ask me about <b>C,C++,PHP,React,Redux,OS and DBMS.</b>
+- 🔭 I’m currently working on <b>PHP.</b>
+- 🌱 I’m currently learning <b>DSA.</b>
+- 💬 Ask me about <b>C,C++,React,OS and DBMS.</b>
