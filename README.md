@@ -2,4 +2,4 @@
 
 
 - 🌱 I’m currently learning <b>Data Engineering, Java & Azure.</b>
-- 💬 Ask me about <b>C++,AWS and Computer Networks.</b>
+- 💬 Ask me about <b>C++, SQL, Operating Systems and Computer Networks.</b>
